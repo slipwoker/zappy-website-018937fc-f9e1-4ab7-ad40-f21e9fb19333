@@ -1,0 +1,104 @@
+# סרום הפקות — Generative Engine Optimization Map
+
+> A ticket sales and event promotion platform designed to help organizers sell tickets online and promote their events to a wider audience. The site focuses on event discovery, seamless ticket purchasing, and marketing visibility for various types of events.
+
+---
+
+## Pages
+
+### בית
+https://-018937fc.zappy5.app
+מחפשים בילוי מושלם? סרום הפקות מציעה פלטפורמה לגילוי אירועים, רכישת כרטיסים קלה וקידום מופעים. תפסו קופונים לדיסני על הקרח, הצגות ברודווי ועוד – והפכו כל ערב לחוויה בלתי נשכחת!
+
+### שירותים
+https://-018937fc.zappy5.app/services
+מפיקים ומארגנים, הגיע הזמן להגדיל חשיפה! שירותי סרום הפקות נותנים לכם כלים למכירת כרטיסים אונליין, קידום ממוקד והגעה לקהל רחב יותר. הצטרפו עוד היום ותנו לאירוע שלכם את הבמה שמגיעה לו!
+
+### אודות
+https://-018937fc.zappy5.app/about
+רוצים לדעת מי דואג שתמיד תמצאו את האירוע המושלם? סרום הפקות הוא צוות שמחבר בין קהל לאירועים עם תשוקה, טכנולוגיה וקופונים משתלמים כמו לדיסני על הקרח. הציצו מאחורי הקלעים של הבילוי הבא שלכם!
+
+### צור קשר
+https://-018937fc.zappy5.app/contact
+יש לכם שאלה על כרטיסים, קופונים להצגות ברודווי או שיתוף פעולה? צוות סרום הפקות כאן כדי לעזור! מלאו פרטים ונדאג שתקבלו את כל מה שצריך כדי ליהנות מהאירוע המושלם במחיר שווה במיוחד.
+
+### Products
+https://-018937fc.zappy5.app/products
+המוצרים שלנו - סרום הפקות
+
+### Cart
+https://-018937fc.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-018937fc.zappy5.app/checkout
+תשלום
+
+### Login
+https://-018937fc.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-018937fc.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-018937fc.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-018937fc.zappy5.app/product/:slug
+פרטי המוצר - סרום הפקות
+
+### Category
+https://-018937fc.zappy5.app/category/:slug
+מוצרים - סרום הפקות
+
+### תודה על פנייתך
+https://-018937fc.zappy5.app/thank-you
+סרום הפקות - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-018937fc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-018937fc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-018937fc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סרום הפקות
+A ticket sales and event promotion platform designed to help organizers sell tickets online and promote their events to a wider audience. The site focuses on event discovery, seamless ticket purchasing, and marketing visibility for various types of events.
+
+## Target Audience
+- חובבי מוזיקה חיה
+- אוהבי תרבות ואמנות
+- לקוחות עסקיים
+
+## Industry
+Event Ticketing & Promotion
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-018937fc.zappy5.app/sitemap.xml
+- Robots: https://-018937fc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-018937fc.zappy5.app/llms-full.txt
+- Products (JSON): https://-018937fc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-018937fc.zappy5.app/product-feed.xml
